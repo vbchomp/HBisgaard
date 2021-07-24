@@ -37,7 +37,31 @@ Actual time needed to complete: 18 minutes. I used a few different past projects
 
 ---
 
-Number and name of feature:
+Number and name of feature: Card 2 - Profile Page
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 1250
+
+Finish time: 130
+
+Actual time needed to complete: 40 minutes. Hardest part was trying to figure out how to get my picture bigger. I'll need to come back later and fix my pixel sizes.
+
+---
+
+Number and name of feature: Card 3 - Nav, Header and Footer
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 130
+
+Finish time: 235
+
+Actual time needed to complete: 1 hr 5 minutes. Had a little trouble trying to get the linkedIn and Github links to work. They are not pretty at the moment, but they are links.
+
+---
+
+Number and name of feature: Card 4 - Portfolio
 
 Estimate of time needed to complete:
 
