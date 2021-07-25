@@ -1,6 +1,6 @@
 # HBisgaard Portfolio
 
-This is my Portfolio site. The content is still developing.
+This is my Portfolio site. The content is still developing. Using predeveloped code base for a reactstrap Application hosted on Netlify, parse through the code to find what I want to stay and delete what I will not use. Develop a portfolio to showcase my talents and projects. 
 
 ## Author
 
@@ -9,10 +9,13 @@ This is my Portfolio site. The content is still developing.
 ## Contributors
 
 * Code Fellows
+* Phil Murphy, Site Reliability Engineer
+* Ryan Gallaway, Instructor
+* Michael Eclavea, TA
 
 ## Minimum Viable Product (MVP) definition
 
-All the Trell cards for Lab 5 closed and if there is still time before turn in, a few creative designs to make this site mine.
+All the Trello cards for Lab 5 closed and if there is still time before turn in, a few creative designs to make this site mine.
 
 ## Project Prep Links
 
@@ -21,7 +24,7 @@ All the Trell cards for Lab 5 closed and if there is still time before turn in, 
 
 ## Reflections
 
-* Lab 05 -
+* Lab 05 - I made it through all the cards and tried to make it pretty. The reactstrap has it pretty locked down unless you know where to look. There were over 11k lines in one of the css files and I wasn't to the end yet. I will work more on it over the next few days during AT. The last few days were the rough ones and the next few should slow down. I should be able to focus more on class again. I look forward to being able to get back into class.
 
 ## Time Estimations
 
@@ -63,29 +66,34 @@ Actual time needed to complete: 1 hr 5 minutes. Had a little trouble trying to g
 
 Number and name of feature: Card 4 - Portfolio
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 1 hour
 
-Start time:
+Start time: 255
 
-Finish time:
+Finish time: 355
 
-Actual time needed to complete:
+Actual time needed to complete: 1 hr. I will have to come back and get better quotes to make it more me. And fix my images. The sizes were off from the pre-work. Plus, I could not figure out how to get one of my banner images to span across the page, but it's probably because I put it in a spot that was originally a small circle image and I just have not found all of the spots that were telling it to be a small circle yet.
 
 ---
 
-Number and name of feature:
+Number and name of feature: Card 5 - Personalize
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: Yes
 
-Start time:
+Start time: 400
 
-Finish time:
+Finish time: 600
 
-Actual time needed to complete:
+Actual time needed to complete: Not sure. Stopped at 600. Still not finished, but it's a good start.
 
 ## References
 
 * Still sussing these out for the moment, will shorten as I figure out which goes with which components I am keeping. And I will move above the Reflections and Time Estimations when complete.
+
+[Beach Fence by Bien Labas](https://unsplash.com/@bienlabas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+[Deserted Beach by Michael Pujals](https://unsplash.com/@mpujals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 
 [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
