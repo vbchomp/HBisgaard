@@ -1,5 +1,101 @@
-# [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
+# HBisgaard Portfolio
 
+This is my Portfolio site. The content is still developing. Using predeveloped code base for a reactstrap Application hosted on Netlify, parse through the code to find what I want to stay and delete what I will not use. Develop a portfolio to showcase my talents and projects. 
+
+## Author
+
+* Heather Bisgaard, Software Engineer
+
+## Contributors
+
+* Code Fellows
+* Phil Murphy, Site Reliability Engineer
+* Ryan Gallaway, Instructor
+* Michael Eclavea, TA
+
+## Minimum Viable Product (MVP) definition
+
+All the Trello cards for Lab 5 closed and if there is still time before turn in, a few creative designs to make this site mine.
+
+## Project Prep Links
+
+* [Trello Board](https://trello.com/b/Ad8LL0Ia/hbisgaard-portfolio)
+* [Netlify Live Site URL](https://hbisgaard-portfolio.netlify.app/)
+
+## Reflections
+
+* Lab 05 - I made it through all the cards and tried to make it pretty. The reactstrap has it pretty locked down unless you know where to look. There were over 11k lines in one of the css files and I wasn't to the end yet. I will work more on it over the next few days during AT. The last few days were the rough ones and the next few should slow down. I should be able to focus more on class again. I look forward to being able to get back into class.
+
+## Time Estimations
+
+Number and name of feature: README Setup
+
+Estimate of time needed to complete: 15 minutes
+
+Start time: 1230
+
+Finish time: 1248
+
+Actual time needed to complete: 18 minutes. I used a few different past projects to try and get a more complete README file going.
+
+---
+
+Number and name of feature: Card 2 - Profile Page
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 1250
+
+Finish time: 130
+
+Actual time needed to complete: 40 minutes. Hardest part was trying to figure out how to get my picture bigger. I'll need to come back later and fix my pixel sizes.
+
+---
+
+Number and name of feature: Card 3 - Nav, Header and Footer
+
+Estimate of time needed to complete: 45 minutes
+
+Start time: 130
+
+Finish time: 235
+
+Actual time needed to complete: 1 hr 5 minutes. Had a little trouble trying to get the linkedIn and Github links to work. They are not pretty at the moment, but they are links.
+
+---
+
+Number and name of feature: Card 4 - Portfolio
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 255
+
+Finish time: 355
+
+Actual time needed to complete: 1 hr. I will have to come back and get better quotes to make it more me. And fix my images. The sizes were off from the pre-work. Plus, I could not figure out how to get one of my banner images to span across the page, but it's probably because I put it in a spot that was originally a small circle image and I just have not found all of the spots that were telling it to be a small circle yet.
+
+---
+
+Number and name of feature: Card 5 - Personalize
+
+Estimate of time needed to complete: Yes
+
+Start time: 400
+
+Finish time: 600
+
+Actual time needed to complete: Not sure. Stopped at 600. Still not finished, but it's a good start.
+
+## References
+
+* Still sussing these out for the moment, will shorten as I figure out which goes with which components I am keeping. And I will move above the Reflections and Time Estimations when complete.
+
+[Beach Fence by Bien Labas](https://unsplash.com/@bienlabas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+[Deserted Beach by Michael Pujals](https://unsplash.com/@mpujals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+
+[Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
  ![version](https://img.shields.io/badge/version-1.1.0-blue.svg)  ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-design-system-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-design-system-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-design-system-react.svg?maxAge=2592000)](https://github.com/creativetimofficial/argon-design-system-react/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 

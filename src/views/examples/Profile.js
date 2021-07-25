@@ -23,7 +23,10 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "assets/img/theme/team-4-800x800.jpg";
+// I reimported my profile pic at 800x800 which is what the people in the demo had and my profile pic looks likes theirs. I can take out or leave. Let me know.
+// import profilehb from "assets/img/theme/profilehb.jpeg";
+import bienlabas from "assets/img/theme/bienlabas.jpg";
+import profilehb800 from "assets/img/theme/profilehb800.jpeg";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -36,19 +39,21 @@ class Profile extends React.Component {
       <>
         <DemoNavbar />
         <main className="profile-page" ref="main">
-          <section className="section-profile-cover section-shaped my-0">
+          {/* <section className="section-profile-cover section-shaped my-0"> */}
             {/* Circles background */}
             <div className="shape shape-style-1 shape-default alpha-4">
-              <span />
-              <span />
-              <span />
-              <span />
-              <span />
-              <span />
-              <span />
+              <span>
+                <img
+                  style={{ width: "100%" }}
+                  src={bienlabas}
+                  alt="Vieus Boucau Les Bains France by Bien Labas"
+                  title="Vieux Boucau Les Bains France"
+                  description="Beach Fence by Bien Labas "
+                />
+              </span>
             </div>
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew">
+            {/* <div className="separator separator-bottom separator-skew">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -62,11 +67,11 @@ class Profile extends React.Component {
                   points="2560 0 2560 100 0 100"
                 />
               </svg>
-            </div>
-          </section>
+            </div> */}
+          {/* </section> */}
           <section className="section">
             <Container>
-              <Card className="card-profile shadow mt--300">
+              <Card className="card-profile shadow mt--300" style={{ backgroundColor: "#73a2bf" }}>
                 <div className="px-4">
                   <Row className="justify-content-center">
                     <Col className="order-lg-2" lg="3">
@@ -75,7 +80,7 @@ class Profile extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={profile}
+                            src={profilehb800}
                           />
                         </a>
                       </div>
@@ -108,15 +113,15 @@ class Profile extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
+                          <span className="heading">Ok, fine</span>
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
+                          <span className="heading">Sure</span>
                           <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
+                          <span className="heading">None, Please</span>
                           <span className="description">Comments</span>
                         </div>
                       </div>
@@ -124,31 +129,27 @@ class Profile extends React.Component {
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
-                      <span className="font-weight-light">, 27</span>
+                      Heather Bisgaard{" "}
+                      {/* <span className="font-weight-light">, 43</span> */}
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Lacey, WA
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Seabound Software Developer - Creative Solar Energy Solutions
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      University of Anywhere and Everywhere in Between
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                          Future Software Developer/Engineer changing the world of marine solar energy.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
