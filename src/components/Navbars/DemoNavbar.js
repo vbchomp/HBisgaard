@@ -74,12 +74,6 @@ class DemoNavbar extends React.Component {
             id="navbar-main"
           >
             <Container>
-              <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
-                <img
-                  alt="..."
-                  src={reactWhite}
-                />
-              </NavbarBrand>
               <button className="navbar-toggler" id="navbar_global">
                 <span className="navbar-toggler-icon" />
               </button>
@@ -115,12 +109,12 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">Menu</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/portfolio-page" tag={Link}>
+                      <DropdownItem to="/portfolio" tag={Link}>
                         Portfolio
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to="/" tag={Link}>
                         Profile
-                      </DropdownItem>                    
+                      </DropdownItem>
                     </DropdownMenu>
                   </UncontrolledDropdown>
                 </Nav>
@@ -132,7 +126,7 @@ class DemoNavbar extends React.Component {
                       id="tooltip112445449"
                       target="_blank"
                     >
-                      <i className="fab fa-github" />
+                      <i className="fa fa-github" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
                         Github
                       </span>
@@ -147,7 +141,7 @@ class DemoNavbar extends React.Component {
                       id="tooltip112445449"
                       target="_blank"
                     >
-                      <i className="fab fa-linkedin" />
+                      <i className="fa fa-linkedin" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
                         LinkedIn
                       </span>
